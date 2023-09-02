@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b636dfd713be6959",
+    "type": "split",
+    "children": [
+      {
+        "id": "243361ef48f1dca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88fef2b9156cd3d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a1ff47b1010f062",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9e1860e4ad79c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096bca32db5c2921",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ae708e54a4cea4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "852af8108bb44a55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a71c38de97a85fce",
+    "type": "split",
+    "children": [
+      {
+        "id": "2713e7d053b93eb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f7f0703a249c8f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64a2b6b7ac25aa0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee7e2e7da35f0de3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39add2a3b993dff9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "096bca32db5c2921",
+  "lastOpenFiles": [
+    "docs/荆棘术/spell.png",
+    "versions/GodSuit_0.0.1.rar",
+    "docs/main.md",
+    "docs/吸星大法/script.md",
+    "docs/吸星大法/spell.png",
+    "docs/吸星大法/magickEffect.png",
+    "docs/我是火车王/script.md",
+    "docs/我是火车王/spell.png",
+    "docs/我是火车王/readme.md",
+    "docs/我是火车王/magicEffect.png",
+    "docs/我是火车王/自我麻痹spell.png",
+    "docs/我是火车王/自我麻痹MagickEffect.png",
+    "docs/我是火车王/火焰爆炸spell.png",
+    "docs/我是火车王/火焰爆炸MagicEffect.png",
+    "docs/我是火车王/火焰爆炸Explosion.png",
+    "docs/我是火车王/缓时术spell.png",
+    "docs/万界交易术/script.md",
+    "docs/万界交易术/readme.md",
+    "docs/收手吧，阿祖/script.md",
+    "docs/收手吧，阿祖/readme.md",
+    "docs/神威/readme.md",
+    "docs/飞龙探云手/script.md",
+    "docs/神术-窃/script.md",
+    "docs/神术-窃/readme.md",
+    "docs/神格/readme.md",
+    "docs/解衣卸甲/script.md",
+    "docs/解衣卸甲",
+    "docs/新建文件夹",
+    "docs/倒地",
+    "docs/飞龙探云手",
+    "docs/荆棘术",
+    "docs/除你武器",
+    "docs/波耶希亚的拥抱",
+    "docs/哈姆林的遗志",
+    "docs/吸星大法",
+    "README.md"
+  ]
+}
