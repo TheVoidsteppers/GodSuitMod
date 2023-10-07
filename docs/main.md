@@ -27,6 +27,14 @@ Spell Property godSuitMagicTradingspell auto
 Spell Property godSuitMagicUnequipspell auto
 ; 我是火车王
 Spell Property godSuitLeeroyJenkins auto
+; 快乐星球
+Spell Property godSuitMagicStrikeFlyspell auto
+; 造物-加林根
+Spell Property godSuitMagicCreateJarrinRootspell auto
+; 神之眼
+Spell Property godSuitEyespell auto
+; 死灵术
+Spell Property godSuitDeadThrallspell auto
 
 
 ; add armor
@@ -36,6 +44,10 @@ Armor Property godSuitHoodClothesCirclet auto
 Armor Property godSuitMajestyArmorClothes auto
 ; 荆棘
 Armor Property godSuitReflectDamageArmorClothes auto
+; 隐身戒指
+Armor Property godSuitInvisibilityRing auto
+; 不死戒指
+Armor Property godSuitimmortalRing auto
 
 Event OnInit()
 	Game.GetPlayer().AddSpell(godSuitAttractspell)
@@ -51,9 +63,15 @@ Event OnInit()
 	Game.GetPlayer().AddSpell(godSuitMagicTradingspell)
 	Game.GetPlayer().AddSpell(godSuitMagicUnequipspell)
 	Game.GetPlayer().AddSpell(godSuitLeeroyJenkins)
+	Game.GetPlayer().AddSpell(godSuitMagicStrikeFlyspell)
+	Game.GetPlayer().AddSpell(godSuitMagicCreateJarrinRootspell)
+	Game.GetPlayer().AddSpell(godSuitEyespell)
+	Game.GetPlayer().AddSpell(godSuitDeadThrallspell)
 
 	Game.GetPlayer().AddItem(godSuitHoodClothesCirclet, 1)
 	Game.GetPlayer().AddItem(godSuitMajestyArmorClothes, 1)
 	Game.GetPlayer().AddItem(godSuitReflectDamageArmorClothes, 1)
+	Game.GetPlayer().AddItem(godSuitInvisibilityRing, 1)
+	Game.GetPlayer().AddItem(godSuitimmortalRing, 1)
 EndEvent
 ```

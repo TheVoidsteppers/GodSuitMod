@@ -17,25 +17,20 @@ Event OnEffectStart(actor Target, actor Caster)
 	;godSuitPerkBashDisarmSpell.Cast(Caster, Caster)
 	;godSuitMagicPushDownCloakSpell.Cast(Caster, Caster)
 
-	Utility.Wait(0.5)
-
+	Utility.Wait(0.53)
 	; Cast a Paraly spell on the Caster
 	godSuitParalysisSpell.Cast(Caster, Caster)
 
 
-	Utility.Wait(0.15)
+	Utility.Wait(0.35)
 	godSuitFrostDmageFFSelfAreaSpell.Cast(Caster, Caster)
 	godSuitFireDamgeFFSelfAreaSpell.Cast(Caster, Caster)
 
-
-	Utility.Wait(0.5)
-	godSuitFrostDmageFFSelfAreaSpell.Cast(Caster, Caster)
-	godSuitFireDamgeFFSelfAreaSpell.Cast(Caster, Caster)
-
-	Utility.Wait(0.15)
+	Utility.Wait(0.6)
 	godSuitVoiceSlowTimeSpell.Cast(Caster, Caster)
 
 	;debug.messageBox("===== Effect Start done =====")
 EndEvent
+
 
 ```
