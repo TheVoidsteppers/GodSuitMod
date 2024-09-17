@@ -12,6 +12,13 @@
 
 ### Version
 
+### 0.0.3
+
+法术
+- [ ] 附身术(God_Suit_Possession_spell)
+- [ ] 酱爆之歌(God_Suit_Magic_Jiang_Bao_spell)
+- [ ] 召唤弩
+
 ### 0.0.2
 
 法术
@@ -53,10 +60,16 @@ God_Suit_
 	- [ ] 在这个moment要爆了
 	- [ ] 热情奔放，创意无限
 	- [ ] Debug.SendAnimationEvent(BardRef, "Dance")
+	- [ ] 不打断演奏
+	- [ ] 播放音乐
 
 - [ ] 偷窃
 	- [ ] 触发偷窃警告
 	- [ ] 扒窃毒药perk  ，失败。
+	- [ ]     RegisterForMenu("ContainerMenu")
+		  RegisterForMenu("InventoryMenu")
+		  RegisterForMenu("FavoritesMenu")
+		  RegisterForMenu("GiftMenu")
 
 
 - [ ] 万恶资本家
@@ -79,3 +92,11 @@ God_Suit_
 - [ ] 召唤烈焰魔狼 
 	- [ ]
 
+- [x] 附魔位置
+
+卷心菜投手
+	- 持续发射卷心菜
+
+手推车战神
+	- 发送一辆手推车
+	- 坐在手推车上

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5ffed2f6baeb0294",
+        "id": "569455dd79ba64e3",
         "type": "tabs",
         "children": [
           {
-            "id": "be957228d8868347",
+            "id": "bdb8e0fccba8a8e0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/我是火车王/缓时术spell.png"
+                "file": "docs/酱爆之歌/script.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/我是火车王/缓时术spell.png",
+                "file": "docs/酱爆之歌/script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/我是火车王/缓时术spell.png",
+                "file": "docs/酱爆之歌/script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/我是火车王/缓时术spell.png"
+                "file": "docs/酱爆之歌/script.md"
               }
             }
           },
@@ -133,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -154,8 +158,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be957228d8868347",
+  "active": "096bca32db5c2921",
   "lastOpenFiles": [
+    "docs/收手吧，阿祖/script.md",
+    "docs/酱爆之歌/script.md",
+    "docs/酱爆之歌",
+    "docs/解衣卸甲/script.md",
+    "docs/附身术/script.md",
+    "docs/飞龙探云手/script.md",
+    "docs/波耶希亚的拥抱/spell.png",
+    "docs/波耶希亚的拥抱/magicEffect.png",
+    "docs/除你武器/spell.png",
+    "docs/除你武器/magicEffect.png",
+    "docs/我是火车王/火焰爆炸spell.png",
+    "docs/我是火车王/火焰爆炸MagicEffect.png",
+    "docs/神之眼/spell.png",
+    "docs/神之眼/magicEffect.png",
+    "README.md",
+    "未命名.canvas",
+    "2023-12-03.md",
+    "docs/收手吧，阿祖/magicEffect.png",
+    "docs/倒地/spell.png",
+    "docs/附身术",
+    "docs/万界交易术/script.md",
+    "docs/我是火车王/script.md",
     "versions/GodSuit_0.0.2.rar",
     "versions/GodSuit_0.0.2/Scripts/Source/God_Suit__Attract_script.psc",
     "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Unequip_script.pex",
@@ -164,31 +190,12 @@
     "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Stop_It_script.pex",
     "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Push_Down_script.pex",
     "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Pickpocket_Script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Jiang_Bao_script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Create_Stuff_script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Leeroy_Jenkins_script.pex",
-    "docs/我是火车王/缓时术MagicEffect.png",
-    "docs/死灵术/magicEffect.png",
-    "docs/神威/enchantment_base.png",
     "docs/main.md",
-    "docs/解衣卸甲/spell.png",
-    "docs/解衣卸甲/script.md",
-    "docs/解衣卸甲/magicEffect.png",
-    "docs/万界交易术/spell.png",
-    "docs/万界交易术/script.md",
-    "docs/万界交易术/magicEffect.png",
-    "docs/快乐星球/spell.png",
     "docs/快乐星球/script.md",
-    "docs/快乐星球/magicEffect.png",
     "docs/收手吧，阿祖/readme.md",
-    "docs/收手吧，阿祖/spell.png",
-    "docs/收手吧，阿祖/script.md",
-    "docs/飞龙探云手/script.md",
     "docs/造物-加林根/script.md",
-    "docs/我是火车王/script.md",
     "docs/神之护佑/script.md",
     "docs/吸星大法/script.md",
-    "README.md",
     "docs/我是火车王/readme.md",
     "docs/万界交易术/readme.md",
     "docs/神威/readme.md",
