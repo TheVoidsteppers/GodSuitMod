@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/酱爆之歌/script.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/酱爆之歌/script.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/酱爆之歌/script.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/酱爆之歌/script.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,49 +158,51 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "096bca32db5c2921",
+  "active": "bdb8e0fccba8a8e0",
   "lastOpenFiles": [
-    "docs/收手吧，阿祖/script.md",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit__Attract_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Strike_Fly_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Jiang_Bao_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_main_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Unequip_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Trading_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Stop_It_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Push_Down_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Pickpocket_Script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Magic_Create_Stuff_script.psc",
+    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit_Leeroy_Jenkins_script.psc",
+    "docs/main.md",
+    "docs/神威/enchantment.png",
+    "docs/神威/荆棘armor.png",
+    "docs/神威/armor.png",
+    "docs/神威/enchantment_base.png",
+    "docs/神威/magicEffect.png",
+    "docs/神威/readme.md",
+    "docs/神格/enchantment_base.png",
+    "docs/神格/readme.md",
+    "docs/神格/enchantment.png",
+    "docs/波耶希亚的拥抱/spell.png",
+    "docs/波耶希亚的拥抱/magicEffect.png",
+    "README.md",
+    "docs/神之护佑/script.md",
+    "docs/我是火车王/script.md",
+    "docs/神之手/script.md",
+    "docs/快乐星球/script.md",
+    "docs/神之手/magicEffect.png",
     "docs/酱爆之歌/script.md",
-    "docs/酱爆之歌",
+    "docs/收手吧，阿祖/script.md",
     "docs/解衣卸甲/script.md",
     "docs/附身术/script.md",
     "docs/飞龙探云手/script.md",
-    "docs/波耶希亚的拥抱/spell.png",
-    "docs/波耶希亚的拥抱/magicEffect.png",
-    "docs/除你武器/spell.png",
-    "docs/除你武器/magicEffect.png",
-    "docs/我是火车王/火焰爆炸spell.png",
-    "docs/我是火车王/火焰爆炸MagicEffect.png",
-    "docs/神之眼/spell.png",
-    "docs/神之眼/magicEffect.png",
-    "README.md",
     "未命名.canvas",
     "2023-12-03.md",
-    "docs/收手吧，阿祖/magicEffect.png",
-    "docs/倒地/spell.png",
-    "docs/附身术",
     "docs/万界交易术/script.md",
-    "docs/我是火车王/script.md",
-    "versions/GodSuit_0.0.2.rar",
-    "versions/GodSuit_0.0.2/Scripts/Source/God_Suit__Attract_script.psc",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Unequip_script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Trading_script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Strike_Fly_script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Stop_It_script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Push_Down_script.pex",
-    "versions/GodSuit_0.0.2/Scripts/God_Suit_Magic_Pickpocket_Script.pex",
-    "docs/main.md",
-    "docs/快乐星球/script.md",
     "docs/收手吧，阿祖/readme.md",
     "docs/造物-加林根/script.md",
-    "docs/神之护佑/script.md",
     "docs/吸星大法/script.md",
     "docs/我是火车王/readme.md",
     "docs/万界交易术/readme.md",
-    "docs/神威/readme.md",
     "docs/神术-窃/script.md",
-    "docs/神术-窃/readme.md",
-    "docs/神格/readme.md"
+    "docs/神术-窃/readme.md"
   ]
 }

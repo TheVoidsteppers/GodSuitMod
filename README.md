@@ -9,15 +9,36 @@
 1. 获取方式？ - 游戏开始时会自动放入背包
 2. 是否可以分解附魔？ - 可以。跟正常附魔一样
 3. 兼容问题？- 没有改动到原本数据或脚本，正常是不会有冲突
-
 ### Version
+
+### 0.0.4
+
+法术
+- [ ] 召唤弩
+
+todo  箭头反弹
+物品标记赃物
+
+幽灵箭 ab23d
+幽灵箭法术书 b3165
+
+物品归属 setownership
 
 ### 0.0.3
 
 法术
-- [ ] 附身术(God_Suit_Possession_spell)
-- [ ] 酱爆之歌(God_Suit_Magic_Jiang_Bao_spell)
-- [ ] 召唤弩
+- [x] 附身术(God_Suit_Possession_spell)
+- [x] 酱爆之歌(God_Suit_Magic_Jiang_Bao_spell)
+
+附魔
+- [x] 神之手(God_Suit_hand_power)
+- [x] 镜返(God_Suit_reflect)
+- [x] 月华/日炎/雷霆(God_Suit_ice_cloak_ClothesCirclet08  God_Suit_fire_cloak_ClothesCirclet08 God_Suit_lighting_cloak_ClothesCirclet08)
+
+可锻造
+- [x] 绑手带
+- [x] 麻布衫
+- [x] 绑腿
 
 ### 0.0.2
 

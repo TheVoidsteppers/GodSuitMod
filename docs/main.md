@@ -35,7 +35,10 @@ Spell Property godSuitMagicCreateJarrinRootspell auto
 Spell Property godSuitEyespell auto
 ; 死灵术
 Spell Property godSuitDeadThrallspell auto
-
+; 附身术
+Spell Property godSuitPossessionspell auto
+; 酱爆之歌
+Spell Property GodSuitMagicJiangBaospell auto
 
 ; add armor
 ; 神格
@@ -48,6 +51,15 @@ Armor Property godSuitReflectDamageArmorClothes auto
 Armor Property godSuitInvisibilityRing auto
 ; 不死戒指
 Armor Property godSuitimmortalRing auto
+; 神之手
+Armor Property godSuithandpower auto
+; 月华
+Armor Property godSuitIcecloak auto
+; 日炎
+Armor Property godSuitFirecloak auto
+; 雷霆
+Armor Property godSuitLightingcloak auto
+
 
 Event OnInit()
 	Game.GetPlayer().AddSpell(godSuitAttractspell)
@@ -67,11 +79,18 @@ Event OnInit()
 	Game.GetPlayer().AddSpell(godSuitMagicCreateJarrinRootspell)
 	Game.GetPlayer().AddSpell(godSuitEyespell)
 	Game.GetPlayer().AddSpell(godSuitDeadThrallspell)
+	Game.GetPlayer().AddSpell(godSuitPossessionspell)
+	Game.GetPlayer().AddSpell(GodSuitMagicJiangBaospell)
 
 	Game.GetPlayer().AddItem(godSuitHoodClothesCirclet, 1)
 	Game.GetPlayer().AddItem(godSuitMajestyArmorClothes, 1)
 	Game.GetPlayer().AddItem(godSuitReflectDamageArmorClothes, 1)
 	Game.GetPlayer().AddItem(godSuitInvisibilityRing, 1)
 	Game.GetPlayer().AddItem(godSuitimmortalRing, 1)
+	Game.GetPlayer().AddItem(godSuithandpower, 1)
+	Game.GetPlayer().AddItem(godSuitIcecloak, 1)
+	Game.GetPlayer().AddItem(godSuitFirecloak, 1)
+	Game.GetPlayer().AddItem(godSuitLightingcloak, 1)
+
 EndEvent
 ```
